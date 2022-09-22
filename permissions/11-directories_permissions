@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 777 ./*
+chown -R a+x ./*
