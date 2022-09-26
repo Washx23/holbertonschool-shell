@@ -1,2 +1,2 @@
 #!/bin/bash
-expr POWER / DIVIDE
+expr $POWER / $DIVIDE
