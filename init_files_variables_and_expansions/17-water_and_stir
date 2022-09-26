@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $WATER + $STIR | printf "%x\n" $bestchol
+$(($WATER + $STIR)) | printf "%x\n" $bestchol
